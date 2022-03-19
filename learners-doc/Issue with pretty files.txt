@@ -1,0 +1,3 @@
+Issue with pretty files
+
+flip the eol to either CRLF or LF
