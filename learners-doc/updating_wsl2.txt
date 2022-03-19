@@ -1,0 +1,8 @@
+When using WSL and docker there can be some issues if your ubunut is wsl 1.
+If you have docker windows/know you have docker compose installed but are getting
+this error "" then check your wsl version and go into your computers power shell 
+and run as an admin. Then follow the youtube video below to update your 
+ubuntu version. Then go back and re build the docker image and run the program.
+
+https://docs.docker.com/desktop/windows/wsl/
+https://www.youtube.com/watch?v=nXBQ8L1McZU&ab_channel=KnowledgeSharingTech

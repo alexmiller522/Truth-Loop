@@ -60,6 +60,7 @@ const RecordRoute = () => {
       setVideoPlayerSource(audioVideoWebmUrl)
     },
     [setVideoPlayerSource]
+    
   )
 
   const startRecording = useCallback(() => {

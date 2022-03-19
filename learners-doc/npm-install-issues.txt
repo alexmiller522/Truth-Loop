@@ -1,0 +1,6 @@
+check npm and node version
+delete cache to npm
+delete npm
+check npm was deleted
+reinstall npm
+

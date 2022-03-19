@@ -1,0 +1,24 @@
+How to run the program and docker
+
+first go to the server folder
+do the docker run
+
+go to the client folder 
+npm install
+npm start
+
+when you want to end it, exit out of the npm start thing
+go back to server
+do the docker down
+
+
+
+How to set up the docker (easy)
+- get windows docker
+clone/download the repo
+go to the command prompt and go to the truth-loop folder
+go to the server folder
+here you will build it and put it down
+
+if you used docker then add this line to your .env file if you dont have IBM cloud permissions
+ENABLE_AUTH=false
